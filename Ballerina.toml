@@ -1,0 +1,4 @@
+[package]
+org = "indiumdevanttraining"
+name = "helloworldapisample"
+version = "0.1.0"
